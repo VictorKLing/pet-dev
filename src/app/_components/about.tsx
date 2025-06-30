@@ -37,7 +37,7 @@ export function About() {
                         </h2>
 
                         <p>
-                            Until one has loved an animal, a part of one's soul remains unawakened. We believe in it and we believe in easy access to things that are good for our mind, body and spirit. With a clever offering, superb support and a secure checkout you're in good hands.
+                            No Pet‑Dev, a nossa missão é transformar o jeito como as pessoas cuidam dos seus pets no dia a dia. Criamos uma plataforma simples, eficiente e segura para facilitar o acesso a produtos essenciais — sempre com foco em qualidade, praticidade e uma boa experiência de navegação.
                         </p>
 
                         <ul className="space-y-4">
