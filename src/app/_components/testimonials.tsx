@@ -1,6 +1,4 @@
 "use client";
-import { Scissors, Syringe, CarTaxiFront, Hotel, Clock } from "lucide-react";
-import { WhatsappLogo } from "@phosphor-icons/react";
 import Image from "next/image";
 
 import {
